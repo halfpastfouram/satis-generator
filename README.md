@@ -1,5 +1,5 @@
 [![Latest Stable Version](https://poser.pugx.org/halfpastfouram/satis-generator/version)](https://packagist.org/packages/halfpastfouram/satis-generator)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a5a280e09dd75c47c89b/maintainability)](https://codeclimate.com/github/halfpastfouram/satis-generator/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/adf07d15bfb4c69366e4/maintainability)](https://codeclimate.com/github/halfpastfouram/satis-generator/maintainability)
 [![composer.lock available](https://poser.pugx.org/halfpastfouram/satis-generator/composerlock)](https://packagist.org/packages/halfpastfouram/satis-generator)
 [![License](https://poser.pugx.org/halfpastfouram/satis-generator/license)](https://packagist.org/packages/halfpastfouram/satis-generator)
 [![Total Downloads](https://poser.pugx.org/halfpastfouram/satis-generator/downloads)](https://packagist.org/packages/halfpastfouram/satis-generator)
