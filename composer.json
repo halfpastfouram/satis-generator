@@ -1,0 +1,34 @@
+{
+  "name": "halfpastfouram/satis-generator",
+  "description": "A satis.json generator to use with composer/satis",
+  "keywords": [
+    "satis",
+    "composer",
+    "generator",
+    "php"
+  ],
+  "minimum-stability": "dev",
+  "license": "AGPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Bob Kruithof"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Halfpastfour\\SatisGenerator\\": "src/"
+    }
+  },
+  "require": {
+    "composer/satis": "1.0.0",
+    "halfpastfouram/collection": "v1.0.0",
+    "zendframework/zend-json": "3.2.x-dev"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "2.*"
+  },
+  "scripts": {
+    "cs-check": "./vendor/bin/phpcs",
+    "cs-fix": "./vendor/bin/phpcbf"
+  }
+}
